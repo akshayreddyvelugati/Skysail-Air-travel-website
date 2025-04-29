@@ -61,17 +61,6 @@ Administrators are empowered to:
 
 ---
 
-## 📸 UI Screens
-
-- 🏠 Home Page  
-- 🔎 Flight Search & Results  
-- 🧍 Passenger Info Form  
-- 💺 Seat Selection Map  
-- 🧾 Confirmation + Boarding Pass  
-- 🛠️ Admin Dashboard  
-
----
-
 ## 👥 Team Members & Responsibilities
 
 | Name                  | ID                   | Contribution                         |
@@ -88,10 +77,3 @@ Administrators are empowered to:
 - ❌ No real-time flight tracking
 - ❌ No payment gateway integration
 
----
-
-## 🛠️ How to Run
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/skysail.git
