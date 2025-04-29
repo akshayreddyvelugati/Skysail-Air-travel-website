@@ -61,17 +61,6 @@ Administrators are empowered to:
 
 ---
 
-## 👥 Team Members & Responsibilities
-
-| Name                  | ID                   | Contribution                         |
-|-----------------------|----------------------|--------------------------------------|
-| Nemali Ashrith Reddy  | AM.AI.U4AID23014     | Homepage, Navbar & Footer Components |
-| Meera M Eugil         | AM.AI.U4AID23048     | UI Design & Animations               |
-| Sandhiya Kennedy      | AM.AI.U4AID23056     | Backend Integration                  |
-| Akshay Reddy Velugati | AM.AI.U4AID23062     | Booking Flow & Admin Dashboard       |
-
----
-
 ## 🚫 Limitations
 
 - ❌ No real-time flight tracking
